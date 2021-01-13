@@ -1,0 +1,76 @@
+#blue{
+
+    color: rgb(4, 4, 122);
+    line-height: 0.5;
+    font-size: 250%;
+    
+    
+}
+
+#tomato{
+
+    color: tomato;
+    font-size: 250%;
+}
+
+p {
+
+    color: dimgray;
+}
+
+body {font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;}
+
+    .link-button{
+
+        text-decoration: none;
+        background-image:linear-gradient(50deg, orange, tomato);
+        font-weight: 500;
+        padding: 10px 20px;
+        color: white;
+        border-radius: 10px;
+    }
+
+    .half-width{
+
+        width: 20%;
+        float: left;
+        margin: 10%;
+        padding: 1%;
+
+
+    }
+
+    .half-width img{
+        width: 100;
+        height: 400px;
+    }
+
+    h2 {
+
+        font-size: 40px;
+    }
+
+    .tomato {
+
+        color: tomato;
+        font-size: 40px;
+        text-align: center;
+    }
+
+    .work {
+
+            float: left;
+           
+    }
+
+    .work img{
+
+        height: 250px;
+    }
+    .latest{
+
+        clear: both;
+        text-align: center;
+    }
+    
